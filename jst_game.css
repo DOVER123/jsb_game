@@ -1,0 +1,26 @@
+body{
+    font-size:50px;
+    background-image: url("bg.jpg") ;
+    color:yellow;
+}
+#left_img{
+    float:left;
+    margin-left: 20px;
+
+}
+.i:hover{
+    transform:scale(1.2,1.2);
+}
+#right_img{
+    float:left;
+    position:absolute;
+    margin-left:500px;
+    top:100px;
+}
+#r_first{
+    padding:10px;
+
+}
+#r_second{
+    padding:10px;
+}
